@@ -6,3 +6,4 @@ Introduzido 2 projetos:
 
 - Projeto realizado na aula;
 - Desafio 1 Corrigindo bugs;
+- Desafio 2 Corrgindo erros de semântica e acessibilidade;
